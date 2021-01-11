@@ -4,6 +4,9 @@ PYTHON VERSION - 2.7.18
 Link-to: https://www.python.org/downloads/release/python-2718/
 
 
+TECH STACK: Python, Flask, Flask-RESTful, Flask-JWT, SQLite3
+
+
 This Flask application is a small project that I programmed to learn the basics of Web Dev with Flask & Python.
 
 Overall Description:
